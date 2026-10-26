@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+.env
+*.keystore
+*.jks
+*.p12
+secret.bin
+dist/
+node_modules/
